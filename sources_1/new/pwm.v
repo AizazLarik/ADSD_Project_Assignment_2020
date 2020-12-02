@@ -18,7 +18,7 @@
 // Additional Comments:
 // 
 //////////////////////////////////////////////////////////////////////////////////
-
+// This module is used for PWM generation
 
 //PWM generator for audio generation!
 module pwm (input clk_in, input rst_in, input [7:0] level_in, output wire pwm_out);
